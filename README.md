@@ -5,6 +5,8 @@ SoronOS - A linux based OS, based towards Simplicity, User intuitive GUI, and ve
 Don't be scared! Give us the truth, and tell us bugs, so we can make the experience better.
 
 Any bugs given will be on our bug to-do list, and you can view anything and what the status is there.
+
+Here you can sumbit feature requests, documentations, and bugs. Check it out! _https://github.com/Thebosscoder316/SoronOS/issues_
 # Trello
 Here, you can find our **Trello**! Below is the link.
 _https://trello.com/b/V5pFW9aU/soronos_ 
